@@ -1,6 +1,6 @@
 
 
-const { add, subtract } = require('./module');
+const { add, subtract } = require('./math');
 console.log(add(5, 3)); // 8
 
 
